@@ -4,9 +4,9 @@
 This project is designed to provide an extensive overview of its functionalities and technologies used.
 
 ## Features
-- Feature 1: Detailed explanation of feature 1.
-- Feature 2: Detailed explanation of feature 2.
-- Feature 3: Detailed explanation of feature 3.
+- Feature 1: preview categories of news
+- Feature 2: get the artichles of news from REST api
+- Feature 3: navigation the article to open it in browser
   
 ## Tech Stack
 - **Frontend:** Technology used for the frontend.
